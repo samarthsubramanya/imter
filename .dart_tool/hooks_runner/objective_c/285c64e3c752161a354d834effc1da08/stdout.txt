@@ -1,0 +1,55 @@
+Running `(cd /Users/samarthms/.pub-cache/hosted/pub.dev/objective_c-9.3.0/; ANDROID_HOME=/Users/samarthms/Library/Android/sdk TMPDIR=/var/folders/hk/03z2gxhj7yd46cn_jx_qr3540000gn/T/ PATH=/Applications/Xcode.app/Contents/SharedFrameworks/SwiftBuild.framework/Versions/A/PlugIns/SWBBuildService.bundle/Contents/PlugIns/SWBUniversalPlatformPlugin.bundle/Contents/Frameworks/SWBUniversalPlatform.framework/Resources:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Users/samarthms/.codex/tmp/arg0/codex-arg0gTez7U:/Users/samarthms/.antigravity/antigravity/bin:/Users/samarthms/miniconda3/bin:/Users/samarthms/.local/bin:/Users/samarthms/.langflow/uv:/Users/samarthms/.nvm/versions/node/v22.20.0/bin:/Library/Frameworks/Python.framework/Versions/3.12/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/pkg/env/global/bin:/Library/Apple/usr/bin:/usr/local/share/dotnet:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/samarthms/.cargo/bin:/Users/samarthms/Library/Application Support/JetBrains/Toolbox/scripts:/Users/samarthms/.lmstudio/bin:/Users/samarthms/Library/Android/sdk/platform-tools:/Users/samarthms/Library/Android/sdk/tools:/Users/samarthms/Library/Android/sdk/tools/bin:/Users/samarthms/Library/Android/sdk/emulator:/Applications/Codex.app/Contents/Resources HOME=/Users/samarthms /opt/homebrew/share/flutter/bin/cache/dart-sdk/bin/dart --packages=/Users/samarthms/Documents/imter/.dart_tool/package_config.json /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/objective_c/285c64e3c752161a354d834effc1da08/hook.dill --config=/Users/samarthms/Documents/imter/.dart_tool/hooks_runner/objective_c/285c64e3c752161a354d834effc1da08/input.json )`.
+INFO: 2026-05-17 14:14:37.087247: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-05-17 14:14:37.551250: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-05-17 14:14:37.670060: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target x86_64-apple-darwin -mmacos-version-min=13 -c /Users/samarthms/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/include/dart_api_dl.c -fpic -I src -o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-05-17 14:14:37.673405: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target x86_64-apple-darwin -mmacos-version-min=13 -c /Users/samarthms/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.c -fpic -I src -o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/objective_c.c.o
+
+INFO: 2026-05-17 14:14:37.675063: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target x86_64-apple-darwin -mmacos-version-min=13 -c /Users/samarthms/.pub-cache/hosted/pub.dev/objective_c-9.3.0/test/util.c -fpic -I src -o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/test/util.c.o
+
+INFO: 2026-05-17 14:14:37.676434: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target x86_64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/samarthms/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/input_stream_adapter.m -fpic -I src -o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-05-17 14:14:37.676889: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target x86_64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/samarthms/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.m -fpic -I src -o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/objective_c.m.o
+
+INFO: 2026-05-17 14:14:37.679550: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target x86_64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/samarthms/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/observer.m -fpic -I src -o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/observer.m.o
+
+INFO: 2026-05-17 14:14:37.682462: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target x86_64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/samarthms/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c_bindings_generated.m -fpic -I src -o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/objective_c_bindings_generated.m.o
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target x86_64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/samarthms/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/protocol.m -fpic -I src -o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/protocol.m.o
+
+INFO: 2026-05-17 14:14:38.429849: 
+
+INFO: 2026-05-17 14:14:38.430964: Generated /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/test/util.c.o
+
+INFO: 2026-05-17 14:14:38.432880: 
+INFO: 2026-05-17 14:14:38.433010: 
+INFO: 2026-05-17 14:14:38.433111: Generated /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/objective_c.c.o
+
+INFO: 2026-05-17 14:14:38.433548: 
+INFO: 2026-05-17 14:14:38.433608: 
+INFO: 2026-05-17 14:14:38.433654: Generated /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-05-17 14:14:38.494290: 
+INFO: 2026-05-17 14:14:38.494359: 
+INFO: 2026-05-17 14:14:38.494412: Generated /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/observer.m.o
+
+INFO: 2026-05-17 14:14:39.528218: 
+INFO: 2026-05-17 14:14:39.528336: 
+INFO: 2026-05-17 14:14:39.528427: Generated /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/ns_number.m.o
+
+INFO: 2026-05-17 14:14:39.582119: Generated /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/input_stream_adapter.m.o
+
+shared/objective_c/build/285c64e3c7/obj/src/objective_c.m.o
+
+INFO: 2026-05-17 14:14:39.630940: 
+INFO: 2026-05-17 14:14:39.631034: 
+INFO: 2026-05-17 14:14:39.631077: Generated /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-05-17 14:14:39.633352: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target x86_64-apple-darwin -mmacos-version-min=13 /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/include/dart_api_dl.c.o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/objective_c.c.o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/test/util.c.o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/input_stream_adapter.m.o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/objective_c.m.o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/observer.m.o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/ns_number.m.o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/protocol.m.o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/obj/src/objective_c_bindings_generated.m.o -o /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/objective_c.dylib
+
+INFO: 2026-05-17 14:14:39.877809: 
+INFO: 2026-05-17 14:14:39.878029: 
+INFO: 2026-05-17 14:14:39.878093: Generated /Users/samarthms/Documents/imter/.dart_tool/hooks_runner/shared/objective_c/build/285c64e3c7/objective_c.dylib
+
